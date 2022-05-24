@@ -1,0 +1,116 @@
+.reblu_icon {
+  border-radius: 30px;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.reblu_border {
+  border-radius: 40px;
+  height: 280px;
+  width: 280px;
+  background: white;
+}
+
+.reblu_border:hover {
+  background: #D0D0D0;
+  cursor: pointer;
+}
+
+.reblu_text {
+  position: absolute;
+  font-size: 80px;
+  margin-left: 50px;
+  margin-top: 180px;
+}
+
+.defuse_a_bomb {
+  margin-left: 330px;
+  margin-top: -280px;
+}
+
+.defuse_a_bomb_icon {
+  border-radius: 30px;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.defuse_a_bomb_border {
+  border-radius: 40px;
+  height: 280px;
+  width: 280px;
+  background: black;
+}
+
+.defuse_a_bomb_border:hover {
+  background: #767676;
+  cursor: pointer;
+}
+
+.defuse_a_bomb_text {
+  position: absolute;
+  font-size: 37px;
+  margin-left: 25px;
+  margin-top: 210px;
+  color: white;
+}
+
+.old_island {
+  margin-left: 660px;
+  margin-top: -280px;
+}
+
+.old_island_icon {
+  border-radius: 30px;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.old_island_border {
+  border-radius: 40px;
+  height: 280px;
+  width: 280px;
+  background: white;
+}
+
+.old_island_border:hover {
+  background: #565656;
+  cursor: pointer;
+}
+
+.old_island_text {
+  position: absolute;
+  font-size: 55px;
+  margin-left: 30px;
+  margin-top: 200px;
+}
+
+.cosmic_path {
+  margin-left: 990px;
+  margin-top: -280px;
+}
+
+.cosmic_path_icon {
+  border-radius: 30px;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.cosmic_path_border {
+  border-radius: 40px;
+  height: 280px;
+  width: 280px;
+  background: black;
+}
+
+.cosmic_path_border:hover {
+  background: #565656;
+  cursor: pointer;
+}
+
+.cosmic_path_text {
+  position: absolute;
+  font-size: 43px;
+  margin-left: 25px;
+  margin-top: 205px;
+  color: white;
+}
